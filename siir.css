@@ -1,0 +1,49 @@
+#ortabaslik {
+    color: rgb(21, 68, 47);
+    font-size: 84px;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -240px;
+    margin-top: -300px;
+    }
+    #giris{
+        color: rgb(69, 161, 105);
+        font-size: 20px;
+        position: absolute;
+        top: 18%;
+    }
+    #yazarlar {
+        color: rgb(0,100, 0);
+        font-size: 20px;
+        position: absolute;
+        top: 28%;
+        left: 100px;
+    }
+    .yazar {
+        color:rgb(99, 128, 106);
+        font-size:20px;
+        
+    }
+    #siir-1 {
+        color: rgb(0,100,0);
+      position: absolute;
+      top: 28%;
+      left: 500px; 
+    }
+    #sizdengelenler{
+        color: rgb(0,100 , 0);
+        position: absolute;
+        top: 28%;
+        left: 990px;
+    }
+    #iletisim {
+        color: darkgreen;
+        position:absolute;
+        top:85%;
+        font-size: 20px;
+    }
+
+    
+       
